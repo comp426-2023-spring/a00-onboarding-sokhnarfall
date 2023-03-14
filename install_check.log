@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin LAPTOP-UC7N1DKN 22.3.0 Darwin Kernel Version 22.3.0: Mon Jan 30 20:42:11 PST 2023; root:xnu-8792.81.3~2/RELEASE_X86_64 x86_64
+SHELL:	[/usr/local/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.40.0
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Dec 16 2022 23:27:53)
+CURL:	[/usr/bin/curl] curl 7.86.0 (x86_64-apple-darwin22.0) libcurl/7.86.0 (SecureTransport) LibreSSL/3.3.6 zlib/1.2.11 nghttp2/1.47.0
+NODE:	[/Users/sokhna/.nvm/versions/node/v18.15.0/bin/node] v18.15.0
